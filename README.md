@@ -26,9 +26,10 @@ I am passionate about many subjects related to technology, such as video games (
 
 ---
 
-### 👾 Here's one of my most notable contributions:
+### 👾 Here's some of my most notable contributions:
 
 [![Vida-Pet](https://github-readme-stats.vercel.app/api/pin/?username=Nobutann&repo=Vida-Pet&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/Nobutann/Vida-Pet)
+[![Recife de Memorias](https://github-readme-stats.vercel.app/api/pin/?username=LHFalcao&repo=Recife_de_Memorias&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/LHFalcao/Recife_de_Memorias)
 
 ### 📞 Contact me here!
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-pess%C3%B4a-primo-a0b572302/)
