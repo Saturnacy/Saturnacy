@@ -1,5 +1,5 @@
 # 🌎Greetings, Traveler!🪐
-I am known as **Saturnacy**, but you may also call me **JP**!
+I am **João Pedro Pessôa Primo**, also known online as **Saturnacy**, but you may also call me **JP**!
 
 I am passionate about many subjects related to technology, such as video games (and their development), AI and all types of software.
 
