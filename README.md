@@ -33,5 +33,9 @@ I am passionate about many subjects related to technology, such as video games (
 
 ### 📞 Contact me here!
 [![LindIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-pess%C3%B4a-primo-a0b572302/)
+<br>
+Personal E-mail: jppessoaprimo@gmail.com
+<br>
+Work E-mail: jppp@cesar.school
 
 
